@@ -1,16 +1,32 @@
-## Hi there 👋
+![Typing](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Poly+Code;Frontend+Developer;HTML+CSS+JavaScript;Always+Learning)
 
-<!--
-**PolyCode-12/PolyCode-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👋 Salam, mən Poly Code</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <b>Frontend Developer</b> • HTML • CSS • JavaScript
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://www.tiktok.com/@poly_moly0" target="_blank">
+    🎵 TikTok Profilim
+  </a>
+</p>
+
+---
+
+## 🚀 Haqqımda
+- 💻 Frontend proqramlaşdırma ilə məşğulam  
+- 🎯 Fokus: *təmiz dizayn və JavaScript məntiqi*
+- 📚 Praktik layihələrlə özümü inkişaf etdirirəm  
+
+---
+
+## 🛠 Texnologiyalar
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,figma" />
+</p>
+
+---
+
+## 📫 Əlaqə
+- TikTok: <a href="https://www.tiktok.com/@poly_moly0">@poly_moly0</a>
