@@ -7,8 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.tiktok.com/@poly_moly0" target="_blank">
-    🎵 TikTok Profilim
+
   </a>
 </p>
 
@@ -28,5 +27,4 @@
 
 ---
 
-## 📫 Əlaqə
-- TikTok: <a href="https://www.tiktok.com/@poly_moly0">@poly_moly0</a>
+
