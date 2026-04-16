@@ -22,7 +22,7 @@
 
 ## 🛠 Texnologiyalar
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,git,github,figma" />
 </p>
 
 ---
